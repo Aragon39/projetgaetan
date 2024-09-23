@@ -1,0 +1,27 @@
+
+.description-travaux {
+    border: 3px solid black;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    font-size: 100px;
+    
+}
+
+.description-label {
+    color: black;
+    font-size: 25px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    word-wrap: break-word;
+    margin-bottom: 10px;
+}
+
+.description-textarea {
+    width: 100%;
+    height: 150px;
+    resize: none;
+    border: none;
+    outline: none;
+    font-size: 25px;
+}

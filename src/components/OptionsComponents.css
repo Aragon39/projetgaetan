@@ -1,0 +1,23 @@
+.options-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    border: 3px solid black;
+    margin-bottom: 20px;
+    border-radius: 5px;
+   
+    
+}
+
+.option-label {
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+}
+
+.option-input {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
